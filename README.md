@@ -1,1 +1,1 @@
-# Java_Practice
+# This repository consists of basic java programs.
